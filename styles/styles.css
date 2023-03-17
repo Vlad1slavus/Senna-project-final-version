@@ -333,7 +333,7 @@ footer a:hover {
 }
 @media screen and (max-width: 500px) {
   .wrapper {
-      padding: 240px 0px 50px 0px;
+      padding: 240px 20px 50px 20px;
       width: 426px;
   }
   .wrapper h1, .wrapper p {
